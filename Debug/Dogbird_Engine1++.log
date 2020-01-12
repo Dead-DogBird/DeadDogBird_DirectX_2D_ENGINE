@@ -1,0 +1,65 @@
+﻿  BackGround.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  BoxCollider.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  Bullet.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  Camera.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\camera.cpp(25): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Dogbird_Engine1++.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\dogbird_engine1++.cpp(45): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameObject.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  GrapicManager.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\grapicmanager.cpp(79): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InputManager.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  Map.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  MouseCur.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\mousecur.cpp(24): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ObjectManager.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  PGun.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  SceneManager.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  Shadow.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  Test.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\test.cpp(34): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\test.cpp(41): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Test2.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\test2.cpp(23): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\test2.cpp(27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\test2.cpp(33): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  TextureManager.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  stdafx.cpp
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\pgun.h(15): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\자습\c++ 엔진 리멬\dogbird_engine1++\scenemanager.h(5): warning C4091: 'static ': 변수를 선언하지 않으면 'SceneManager::scene' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다...
+  Dogbird_Engine1++.vcxproj -> D:\자습\C++ 엔진 리멬\Dogbird_Engine1++\Debug\Dogbird_Engine1++.exe
